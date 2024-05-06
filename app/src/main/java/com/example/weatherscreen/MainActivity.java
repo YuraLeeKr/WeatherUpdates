@@ -22,7 +22,6 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -39,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private final String appid = "bb3cba20f3473754d3dc493bac1511b3";
     DecimalFormat df = new DecimalFormat("#.##");
 
-
+    //hi hello
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
