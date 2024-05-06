@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     private final String appid = "bb3cba20f3473754d3dc493bac1511b3";
     DecimalFormat df = new DecimalFormat("#.##");
 
-    //hi hello
+    //hi
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
