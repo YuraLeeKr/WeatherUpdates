@@ -29,7 +29,6 @@ import org.json.JSONObject;
 
 
 import javax.xml.transform.Result;
-
 public class MainActivity extends AppCompatActivity {
 
     EditText City, Country;
