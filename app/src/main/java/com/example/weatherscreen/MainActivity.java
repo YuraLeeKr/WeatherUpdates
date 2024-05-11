@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
-
+    //helloworld
     public void getweatherDetails(View view) {
         Log.d("MainActivity", "Button clicked"); // Log message to indicate button click
         String tempUrl = "";
