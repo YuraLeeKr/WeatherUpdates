@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         String city = City.getText().toString().trim();
         String country = Country.getText().toString().trim();
         if (city.equals("")) {
-            Result.setText("Please");
+            Result.setText("Please say hellogit ");
         } else {
             if(country.equals("")) {
                 tempUrl = url + "?q=" + city + "&appid=" + appid;
